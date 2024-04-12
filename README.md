@@ -4,8 +4,12 @@
 
 📉 Minhas hardskills se baseiam em Python(Pandas, NumPy, Matplotlib, Seaborn, statsmodels, scikit-learn), Machine Learning( Regressão, Classificação, Clusterização), Git e Github(versionamento), Estatística e Matemática. Minhas principais soft skills são, comunicação, trabalho em equipe, dedicação e fácil adaptação.
 
-#### Contatos 📩
+### Contatos 📩
 
 - [Linkedin](https://www.linkedin.com/in/edmur-crist%C3%B3foro-neto-bb61b7244/)
 - [E-mail](mailto:edmurcn@gmail.com)
+
+# [Portfólio de Ciência de Dados](https://github.com/Edmurcn/Portifolio-Ciencia-deDados) 📊
+
+Neste portfólio você irá encontrar a resolução de alguns problemas do mercado, utilizando machine learning, data analytics, SQL e outras ferramentas.
 
