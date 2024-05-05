@@ -11,5 +11,5 @@
 
 # [Portfólio de Ciência de Dados](https://github.com/Edmurcn/Portifolio-Ciencia-deDados) 📊
 
-Neste portfólio você irá encontrar a resolução de alguns problemas do mercado, utilizando machine learning, data analytics, SQL e outras ferramentas.
+Neste portfólio você irá encontrar a resolução de alguns problemas do mercado, utilizando meus conhecimentos na área.
 
